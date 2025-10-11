@@ -38,7 +38,7 @@ hasta estructuras más complejas que simulan rutinas de programas reales.
 <pre>
 Pruebas-en-Ensamblador/
 ├── ejercicios/
-│   ├── registro_basico.asm
+│   ├── hola_mundo.asm
 │   ├── bucles_y_condiciones.asm
 │   ├── operaciones_aritmeticas.asm
 │   └── interrupciones.asm
