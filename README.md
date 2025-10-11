@@ -88,13 +88,6 @@ Este proyecto servirá como demostración del control gráfico, detección de co
 
 <hr>
 
-<h2>📄 Licencia</h2>
-
-<p>
-Este proyecto se distribuye bajo la licencia <strong>MIT</strong>.  
-Eres libre de usar, modificar y compartir el código con fines educativos o personales.
-</p>
-
 <hr>
 
 <h2>👨‍💻 Autor</h2>
