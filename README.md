@@ -43,8 +43,8 @@ Pruebas-en-Ensamblador/
 │   ├── operaciones_aritmeticas.asm
 │   └── interrupciones.asm
 ├── README.html
-└── otros/
-    └── recursos_teoricos.txt
+└── Recursos Necesarios/
+    └── Emu8086.rar
 </pre>
 
 <p>
