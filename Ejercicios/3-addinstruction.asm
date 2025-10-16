@@ -1,0 +1,4 @@
+MOV AL,25H
+MOV BL,34H
+ADD AL,BL    
+hlt
