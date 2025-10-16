@@ -8,7 +8,7 @@ main proc
     mov ax, @data
     mov ds, ax
 
-    mov ah, 9       ; función para imprimir cadena
+    mov ah, 9       ; funciÃ³n para imprimir cadena
     lea dx, mensaje
     int 21h         ; llamada a DOS
 
